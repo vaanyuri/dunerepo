@@ -1,0 +1,386 @@
+#EXTM3U
+#EXTINF:-1,VTV 1
+rtp://@232.84.1.117:10254
+#EXTINF:-1,VTV 3
+rtp://@232.84.1.118:10260
+#EXTINF:-1,VTV 6 HD
+rtp://@232.84.1.119:10266
+#EXTINF:10,VTV 1
+rtp://@232.84.1.27:8136
+#EXTINF:10,VTV 2
+rtp://@232.84.1.39:8208
+#EXTINF:10,VTV 3
+rtp://@232.84.1.28:8142
+#EXTINF:10,VTV4
+rtp://@232.84.1.40:8214
+#EXTINF:10,VTV5
+rtp://@232.84.1.41:8220
+#EXTINF:10,VTV 6
+rtp://@232.84.1.42:8226
+#EXTINF:10,VTV Phú Yên
+rtp://@232.84.1.177:9036
+#EXTINF:0,The thao TV HD
+rtp://@232.84.1.207:9216 
+#EXTINF:10,VTVcab 3 - The Thao TV
+rtp://@232.84.1.208:9222
+#EXTINF:10,Bong da TV HD
+rtp://@232.84.1.210:9234
+#EXTINF:0,VTVcab 16 - Bong Da TV
+rtp://@232.84.1.138:8802
+#EXTINF:10,FOX Sports HD
+rtp://@232.84.1.11:8040
+#EXTINF:10,FOX Sports 2 HD
+rtp://@232.84.1.12:8046
+#EXTINF:10,HTV Thể thao
+rtp://@232.84.1.24:8118
+#EXTINF:0,VTC3 HD
+rtp://@232.84.1.81:8460
+#EXTINF:10,HTV2 HD
+rtp://@232.84.1.222:9306
+#EXTINF:10,HTV7 HD
+rtp://@232.84.1.223:9312
+#EXTINF:10,HTV9 HD
+rtp://@232.84.1.224:9318
+#EXTINF:0,VTC-HD 1
+rtp://@232.84.1.71:8400
+#EXTINF:0,VTC HD2
+rtp://@232.84.1.73:8412
+#EXTINF:0,VTC HD3
+rtp://@232.84.1.70:8394
+#EXTINF:0,ITV-HD
+rtp://@232.84.1.74:8418
+#EXTINF:-1,Quốc hội Việt Nam HD
+rtp://@232.84.1.234:10290
+#EXTINF:10,ANTV
+rtp://@232.84.1.212:9246
+#EXTINF:10,QPVN
+rtp://@232.84.1.228:9342
+#EXTINF:10,TTXVN (VNEWS)
+rtp://@232.84.1.52:8292
+#EXTINF:10,Hà Nội 1
+rtp://@232.84.1.29:8148
+#EXTINF:10,Hà Nội 2
+rtp://@232.84.1.23:8112
+#EXTINF:10,HCaTV
+rtp://@232.84.1.53:8298
+#EXTINF:10,HiTV 3
+rtp://@232.84.1.55:8310
+#EXTINF:10,HTV 1
+rtp://@232.84.1.35:8184
+#EXTINF:10,HTV 2
+rtp://@232.84.1.36:8190
+#EXTINF:10,HTV 3
+rtp://@232.84.1.104:8598
+#EXTINF:10,HTV 4
+rtp://@232.84.1.25:8124
+#EXTINF:10,HTV 7
+rtp://@232.84.1.21:8100
+#EXTINF:10,HTV 9
+rtp://@232.84.1.31:8160
+#EXTINF:10,HTV Ca nhạc
+rtp://@232.84.1.126:8730
+#EXTINF:10,HTV Du lịch 
+rtp://@232.84.1.221:9300
+#EXTINF:10,HTV Gia đình
+rtp://@232.84.1.170:8994 
+#EXTINF:10,HTV Phim truyện
+rtp://@232.84.1.105:8604
+#EXTINF:10,HTV Phụ nữ
+rtp://@232.84.1.127:8736
+#EXTINF:10,Thuần Việt
+rtp://@232.84.1.22:8106
+#EXTINF:-1,HTV - Mua sắm tiêu dùng
+rtp://@232.84.1.229:9348
+#EXTINF:10,VOV TV
+rtp://@232.84.1.46:8256
+#EXTINF:10,VTC 1
+rtp://@232.84.1.30:8154
+#EXTINF:10,VTC 2
+rtp://@232.84.1.57:8322
+#EXTINF:10,VTC 3
+rtp://@232.84.1.60:8232
+#EXTINF:10,VTC 6
+rtp://@232.84.1.58:8328
+#EXTINF:10,VTC 7 (Today)
+rtp://@232.84.1.213:9252
+#EXTINF:0,VTC 8 (VITV)
+rtp://@232.84.1.32:8166
+#EXTINF:10,VTC 9
+rtp://@232.84.1.59:8334
+#EXTINF:10,VTC 10
+rtp://@232.84.1.214:9258
+#EXTINF:10,VTC 11
+rtp://@232.84.1.61:8340
+#EXTINF:10,VTC 12
+rtp://@232.84.1.202:9186
+#EXTINF:10,VTC 13 ITV
+rtp://@232.84.1.62:8346
+#EXTINF:10,VTC 14
+rtp://@232.84.1.216:9270
+#EXTINF:10,VTC 16 
+rtp://@232.84.1.215:9264
+
+#EXTINF:10,VTVcab 1 - Giai Tri TV
+rtp://@232.84.1.143:8832
+#EXTINF:10,VTVcab 2 - Phim Viet
+rtp://@232.84.1.168:8982
+#EXTINF:10,VTVcab 4
+rtp://@232.84.1.169:8988
+#EXTINF:10,VTVcab 5 - E Channel
+rtp://@232.84.1.193:9132
+#EXTINF:10,VTVcab 6 - Hay TV
+rtp://@232.84.1.220:9294
+#EXTINF:10,VTVcab 7 - D Drama
+rtp://@232.84.1.205:9204
+#EXTINF:10,VTVcab 8 - BiBi
+rtp://@232.84.1.206:9210 
+#EXTINF:10,VTVcab 10 - O2TV
+rtp://@232.84.1.26:8130
+#EXTINF:10,VTVcab 12 - Style TV HD
+rtp://@232.84.1.244:9438
+#EXTINF:10,VTVcab 17-Yeah1 TV
+rtp://@232.84.1.217:9276
+#EXTINF:0,Star World HD
+rtp://@232.84.1.78:8442
+#EXTINF:10,StarMovie HD
+rtp://@232.84.1.77:8436
+#EXTINF:0,NatGeo Chanel HD
+rtp://@232.84.1.1:7980
+#EXTINF:10,NatGeo People HD
+rtp://@232.84.1.76:8430
+#EXTINF:0,NatGeo Wild HD
+rtp://@232.84.1.80:8454
+#EXTINF:10,Outdoor Channel HD
+rtp://@232.84.1.107:10218 
+#EXTINF:0,MTV HD
+rtp://@232.84.1.75:8424
+#EXTINF:0,NHK world HD
+rtp://@232.84.1.72:8406
+#EXTINF:0,FOX HD
+rtp://@232.84.1.79:8448
+#EXTINF:0,CCTV News HD
+rtp://@232.84.1.3:7992
+#EXTINF:10,AXN
+rtp://@232.84.1.14:8058
+#EXTINF:0,HBO
+rtp://@232.84.1.19:8088
+#EXTINF:10,Cinemax
+rtp://@232.84.1.20:8094
+#EXTINF:10,FOX Movie
+rtp://@232.84.1.66:8370
+#EXTINF:10,Star Movie
+rtp://@232.84.1.10:8034
+#EXTINF:10,Star Word
+rtp://@232.84.1.68:8382
+#EXTINF:0,Fashion TV
+rtp://@232.84.1.2:7986
+#EXTINF:10,Animal Planet
+rtp://@232.84.1.48:8268
+#EXTINF:10,Discovery
+rtp://@232.84.1.47:8262
+#EXTINF:10,Cartoon Network
+rtp://@232.84.1.16:8070
+#EXTINF:10,Disney
+rtp://@232.84.1.18:8082
+#EXTINF:-1,National Geographic
+rtp://@232.84.1.65:8364
+#EXTINF:10,NatGeo Chanel
+rtp://@232.84.1.65:8364
+#EXTINF:10,NatGeo People
+rtp://@232.84.1.67:8376
+#EXTINF:10,Travel & Living
+rtp://@232.84.1.49:8274
+#EXTINF:10,Chanel V
+rtp://@232.84.1.13:8052
+#EXTINF:10,MTV
+rtp://@232.84.1.82:8466
+#EXTINF:10,Arirang
+rtp://@232.84.1.43:8238
+#EXTINF:10,Australia
+rtp://@232.84.1.9:8028
+#EXTINF:10,Bloomberg
+rtp://@232.84.1.7:8016
+#EXTINF:10,Chanel NewsAsia
+rtp://@232.84.1.5:8004
+#EXTINF:10,CNN
+rtp://@232.84.1.17:8076
+#EXTINF:10,DWTV Asia+
+rtp://@232.84.1.6:8010
+#EXTINF:10,NHK world
+rtp://@232.84.1.8:8022
+#EXTINF:10,OPT 1
+rtp://@232.84.1.63:8352
+#EXTINF:10,RAI
+rtp://@232.84.1.64:8358
+#EXTINF:10,TV5 Monde
+rtp://@232.84.1.45:8250
+#EXTINF:10,Da Vinci Learning
+rtp://@232.84.1.108:10224
+#EXTINF:10,Diva Universal
+rtp://@232.84.1.109:10230
+#EXTINF:10,Asian Food Channel
+rtp://@232.84.1.115:10236 
+#EXTINF:-1,Da Vinci Learning
+rtp://@232.84.1.108:10224
+#EXTINF:-1,POCCNR PTP 
+rtp://@232.84.1.95:8544
+#EXTINF:10,TVM
+rtp://@232.84.1.54:8304
+#EXTINF:10,An Giang 1
+rtp://@232.84.1.128:8742
+#EXTINF:10,Bà Rịa Vũng Tàu
+rtp://@232.84.1.129:8748
+#EXTINF:10,Bắc Giang
+rtp://@232.84.1.130:8754
+#EXTINF:10,Bắc Kạn
+rtp://@232.84.1.131:8760
+#EXTINF:10,Bạc Liêu
+rtp://@232.84.1.132:8766
+#EXTINF:10,Bắc Ninh
+rtp://@232.84.1.133:8772
+#EXTINF:10,Bến Tre
+rtp://@232.84.1.134:8778
+#EXTINF:10,Bình Ðịnh
+rtp://@232.84.1.135:8784
+#EXTINF:10,Bình Dương 1
+rtp://@232.84.1.136:8790
+#EXTINF:10,Bình Dương 2
+rtp://@232.84.1.137:8796
+#EXTINF:10,Bình Dương 4
+rtp://@232.84.1.139:8808
+#EXTINF:10,Bình Phước 1
+rtp://@232.84.1.140:8814
+#EXTINF:10,Bình Thuận
+rtp://@232.84.1.141:8820
+#EXTINF:10,Cà Mau 1
+rtp://@232.84.1.142:8826
+#EXTINF:10,Cần Thơ
+rtp://@232.84.1.144:8838
+#EXTINF:10,VTV Cần Thơ 1
+rtp://@232.84.1.241:9420
+#EXTINF:10,Cao Bằng
+rtp://@232.84.1.145:8844
+#EXTINF:10,Ðà Nẵng 1
+rtp://@232.84.1.146:8850
+#EXTINF:10,Ðà Nẵng 2
+rtp://@232.84.1.147:8856
+#EXTINF:10,VTV Ðà Nẵng
+rtp://@232.84.1.148:8862
+#EXTINF:10,Ðaklak
+rtp://@232.84.1.149:8868
+#EXTINF:10,Ðak Nông
+rtp://@232.84.1.150:8874
+#EXTINF:10,Ðiện Biên
+rtp://@232.84.1.151:8880
+#EXTINF:10,Ðồng Nai 1
+rtp://@232.84.1.152:8886
+#EXTINF:10,Ðồng Nai 2
+rtp://@232.84.1.153:8892
+#EXTINF:10,Ðồng Tháp
+rtp://@232.84.1.154:8898
+#EXTINF:10,Gia Lai
+rtp://@232.84.1.155:8904
+#EXTINF:10,Hà Giang
+rtp://@232.84.1.156:8910
+#EXTINF:10,Hà Nam
+rtp://@232.84.1.157:8916
+#EXTINF:10,Hà Tĩnh
+rtp://@232.84.1.158:8922
+#EXTINF:10,Hải Dương 1
+rtp://@232.84.1.159:8928
+#EXTINF:10,Hải Phòng
+rtp://@232.84.1.160:8934
+#EXTINF:10,Hậu Giang
+rtp://@232.84.1.161:8940
+#EXTINF:10,Hòa Bình
+rtp://@232.84.1.162:8946
+#EXTINF:10,Huế TV 1
+rtp://@232.84.1.191:9120
+#EXTINF:10,VTV Huế
+rtp://@232.84.1.192:9126
+#EXTINF:10,Hưng Yên
+rtp://@232.84.1.163:8952
+#EXTINF:10,Khánh Hòa
+rtp://@232.84.1.164:8958
+#EXTINF:10,Kiên Giang
+rtp://@232.84.1.165:8964
+#EXTINF:10,Kon Tum
+rtp://@232.84.1.166:8970
+#EXTINF:10,Lào Cai
+rtp://@232.84.1.124:8718
+#EXTINF:10,Lai Châu
+rtp://@232.84.1.200:9174
+#EXTINF:10,Lạng Sơn
+rtp://@232.84.1.112:8646
+#EXTINF:10,Lâm Ðồng
+rtp://@232.84.1.167:8976
+#EXTINF:10,Long An
+rtp://@232.84.1.171:9000
+#EXTINF:10,Nam Ðịnh
+rtp://@232.84.1.172:9006
+#EXTINF:10,Nghệ An
+rtp://@232.84.1.173:9012
+#EXTINF:10,Ninh Bình
+rtp://@232.84.1.174:9018
+#EXTINF:10,Ninh Thuận
+rtp://@232.84.1.175:9024
+#EXTINF:10,Phú Thọ
+rtp://@232.84.1.176:9030
+#EXTINF:10,Quảng Bình
+rtp://@232.84.1.178:9042
+#EXTINF:10,Quảng Nam
+rtp://@232.84.1.179:9048
+#EXTINF:10,Quảng Ngãi 1
+rtp://@232.84.1.180:9054
+#EXTINF:10,Quảng Ninh 1
+rtp://@232.84.1.181:9060
+#EXTINF:10,Quảng Trị
+rtp://@232.84.1.182:9066
+#EXTINF:10,Sóc Trăng 1
+rtp://@232.84.1.183:9072
+#EXTINF:10,Son La
+rtp://@232.84.1.184:9078
+#EXTINF:10,Tây Ninh
+rtp://@232.84.1.185:9084
+#EXTINF:10,Thái Bình
+rtp://@232.84.1.186:9090
+#EXTINF:10,Thái Nguyên 1
+rtp://@232.84.1.187:9096
+#EXTINF:10,Thái Nguyên 2
+rtp://@232.84.1.199:9168
+#EXTINF:10,Thanh Hóa
+rtp://@232.84.1.188:9102
+#EXTINF:10,Tiền Giang
+rtp://@232.84.1.189:9108
+#EXTINF:10,Trà Vinh
+rtp://@232.84.1.190:9114
+#EXTINF:10,Tuyên Quang
+rtp://@232.84.1.194:9138
+#EXTINF:10,Vĩnh Long 1
+rtp://@232.84.1.195:9144
+#EXTINF:10,Vĩnh Long 2
+rtp://@232.84.1.196:9150
+#EXTINF:10,Vĩnh Phúc
+rtp://@232.84.1.197:9156
+#EXTINF:10,Yên Bái
+rtp://@232.84.1.198:9162
+#EXTINF:10,VNPT Quảng cáo 1	
+rtp://@232.84.1.201:9180
+#EXTINF:10,VNPT Quảng cáo 3	
+rtp://@232.84.1.203:9192
+#EXTINF:10,VNPT Quảng cáo 4	
+rtp://@232.84.1.204:9198
+#EXTINF:0,Previewer - Mosac 1	
+rtp://@232.84.1.242:9426
+#EXTINF:10,Previewer - Mosac 2	
+rtp://@232.84.1.243:9432
+#EXTINF:-1,MyTV - Giới thiệu phim
+rtp://@232.84.1.204:9198
+#EXTINF:-1,Xổ số
+rtp://@232.84.1.211:9240
+#EXTINF:-1,K+ 1
+rtp://@232.84.1.96:8550
+#EXTINF:-1,K+ Nhịp sống
+rtp://@232.84.1.97:8556
+#EXTINF:-1,K+ Phái mạnh
+rtp://@232.84.1.98:8562
